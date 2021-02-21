@@ -14,13 +14,11 @@
   </a>
 </p>
 
-<center>
-  | repositorie | homepage | language | stars | last commit |
+| repositorie | homepage | language | stars | last commit |
 | --- | --- | --- | --- | --- |
 | [whale-photos](https://github.com/Kimentanm/whale-photos) | [`鲸图🐳`](http://photos.kimen.com.cn/) | [![GitHub top language](https://img.shields.io/github/languages/top/Kimentanm/whale-photos?style=flat-square)](https://github.com/Kimentanm/whale-photos) | [![GitHub stars](https://img.shields.io/github/stars/Kimentanm/whale-photos?style=flat-square)](https://github.com/Kimentanm/whale-photos/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/Kimentanm/whale-photos?style=flat-square)](https://github.com/Kimentanm/whale-photos/commits/master) |
 | [kimen-blog](https://github.com/Kimentanm/kimen-blog) | [`Kimen's Blog`](https://blog.kimen.com.cn/) | [![GitHub top language](https://img.shields.io/github/languages/top/Kimentanm/kimen-blog?style=flat-square)](https://github.com/Kimentanm/kimen-blog) | [![GitHub stars](https://img.shields.io/github/stars/Kimentanm/kimen-blog?style=flat-square)](https://github.com/Kimentanm/kimen-blog/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/Kimentanm/kimen-blog?style=flat-square)](https://github.com/Kimentanm/kimen-blog/commits/master) |
 | [resume](https://github.com/Kimentanm/resume) | [`Kimen's Resume`](http://resume.kimen.com.cn/) | [![GitHub top language](https://img.shields.io/github/languages/top/Kimentanm/resume?style=flat-square)](https://github.com/Kimentanm/resume) | [![GitHub stars](https://img.shields.io/github/stars/Kimentanm/resume?style=flat-square)](https://github.com/Kimentanm/kimen-blog/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/Kimentanm/resume?style=flat-square)](https://github.com/Kimentanm/resume/commits/master) |
-</center>
 
 
 <div>
