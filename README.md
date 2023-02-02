@@ -1,14 +1,8 @@
 
 <h2 align="center">Hi there, 👋 I'm Kimen Tang! 😎</h2>
 
-<h4 align="center">My technology stack —— Java | Kotlin | Javascript | Electron | Android</h4>
+<h4 align="center">My technology stack —— Java | Swift | Javascript | Kotlin </h4>
 <h4 align="center">Welcome to Star⭐️</h4>
-
-<p align="center">
-  <a href="https://blog.kimen.com.cn/">
-    <img alt="blog" src="https://img.shields.io/badge/Kimen's blog-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=bloglovin&logoColor=0088f5" />
-  </a>
-</p>
 
 | repositorie | homepage | language | stars | last commit |
 | --- | --- | --- | --- | --- |
